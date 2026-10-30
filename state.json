@@ -4,15 +4,14 @@
   "keyword": "reset",
   "userId": "1953337039510003712",
   "sinceId": "2115890336107233347",
-  "lastCheckedAt": "2026-10-29T20:29:41.795Z",
-  "lastSuccessAt": "2026-10-29T20:29:41.795Z",
-  "lastRunStatus": "checked-6-posts",
+  "lastCheckedAt": "2026-10-30T00:06:34.105Z",
+  "lastSuccessAt": "2026-10-30T00:06:34.105Z",
+  "lastRunStatus": "checked-0-posts",
   "postsScanned": 552,
   "matches": [
     {
       "version": "41e2cbc827fd7f3e134d57e3399dca1567f6cd5a1510eb3e471d695bbe32949f",
       "id": "2115851621137784832",
-      "canonicalId": "2115851621137784832",
       "text": "Graduating from The Reset Company to The Token Company.",
       "createdAt": "2026-10-29T17:01:51.000Z",
       "url": "https://x.com/thsottiaux/status/2115851621137784832",
@@ -32,10 +31,10 @@
           }
         }
       ],
+      "notifiedAt": "2026-10-29T20:29:41.800Z",
       "channels": [
         "github-actions"
-      ],
-      "notifiedAt": "2026-10-29T20:29:41.800Z"
+      ]
     },
     {
       "version": "81aa0416a461f3aedd751e42cca996b60e3af36c5e8c7e391f5ef7d01ce6ef61",
