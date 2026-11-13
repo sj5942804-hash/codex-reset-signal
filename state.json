@@ -3,12 +3,40 @@
   "username": "thsottiaux",
   "keyword": "reset",
   "userId": "1953337039510003712",
-  "sinceId": "2120621485442339277",
-  "lastCheckedAt": "2026-11-12T19:33:40.386Z",
-  "lastSuccessAt": "2026-11-12T19:33:40.386Z",
-  "lastRunStatus": "checked-0-posts",
-  "postsScanned": 671,
+  "sinceId": "2121036562058400200",
+  "lastCheckedAt": "2026-11-13T00:40:07.524Z",
+  "lastSuccessAt": "2026-11-13T00:40:07.524Z",
+  "lastRunStatus": "checked-2-posts",
+  "postsScanned": 673,
   "matches": [
+    {
+      "version": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
+      "id": "2120999993079451919",
+      "canonicalId": "2120999993079451919",
+      "text": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+      "createdAt": "2026-11-12T21:59:39.000Z",
+      "url": "https://x.com/thsottiaux/status/2120999993079451919",
+      "media": [],
+      "detectedAt": "2026-11-13T00:40:07.524Z",
+      "events": [
+        {
+          "type": "mention",
+          "status": "uncertain",
+          "evidence": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+          "time": {
+            "kind": "unknown",
+            "start": null,
+            "end": null,
+            "evidence": "We shipped some good updates to dots today and the banked reset has been activated and should land in everyones accounts sometime soon!",
+            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
+          }
+        }
+      ],
+      "channels": [
+        "github-actions"
+      ],
+      "notifiedAt": "2026-11-13T00:40:07.529Z"
+    },
     {
       "version": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
       "id": "2120410480204525936",
@@ -538,33 +566,6 @@
         }
       ],
       "notifiedAt": "2026-10-26T22:31:00.653Z",
-      "channels": [
-        "github-actions"
-      ]
-    },
-    {
-      "version": "0c2365f179f9ebd9526f6652d6d5b41cd355a42feb13a8dbdee1544d6ad1da78",
-      "id": "2109873287853707513",
-      "text": "What would you like with your side of reset? It's done.",
-      "createdAt": "2026-10-13T05:06:06.000Z",
-      "url": "https://x.com/thsottiaux/status/2109873287853707513",
-      "media": [],
-      "detectedAt": "2026-10-13T05:07:26.117Z",
-      "events": [
-        {
-          "type": "mention",
-          "status": "uncertain",
-          "evidence": "What would you like with your side of reset? It's done",
-          "time": {
-            "kind": "unknown",
-            "start": null,
-            "end": null,
-            "evidence": "What would you like with your side of reset? It's done",
-            "note": "讨论、请求、弱判断或否定，不代表已确认的重置"
-          }
-        }
-      ],
-      "notifiedAt": "2026-10-13T05:07:26.122Z",
       "channels": [
         "github-actions"
       ]
@@ -1242,15 +1243,17 @@
     "2120410006273380750": "a6fabd09590cac47be5bd963153253f6474ae46827adab01a0182a0b02185c1d",
     "2120410480204525936": "c579a4bdbfd63ee59b12e3cbf573c888c235cf951566a35314f55135a2a37573",
     "2120411235716063700": "69f6e3d9a8d3672a81c799c6cbee42f728362b829eff79d039988558abaca0b0",
-    "2120621485442339277": "c799859d296bbf3849c12f5141a98225ae70b286615e30ddf2b4a4bcdf292f0f"
+    "2120621485442339277": "c799859d296bbf3849c12f5141a98225ae70b286615e30ddf2b4a4bcdf292f0f",
+    "2120999993079451919": "2732b43e8f7002afa5ee3d3720a66a3370014efcbf52871d64eb02dd4dffeafb",
+    "2121036562058400200": "ec245e36cc102b2232cc4a4ac0027bad560c07ac48d455c1d0ef3e194a1fa84e"
   },
   "eventParserVersion": 5,
   "latestObservedPost": {
-    "id": "2120621485442339277",
-    "canonicalId": "2120621485442339277",
-    "text": "@charlierguo Hi 👋 Buzz Buzz",
-    "createdAt": "2026-11-11T20:55:36.000Z",
-    "url": "https://x.com/thsottiaux/status/2120621485442339277",
+    "id": "2121036562058400200",
+    "canonicalId": "2121036562058400200",
+    "text": "We announced new tools we're developing for cybersecurity today across automated patching and automated red teaming. Watch the recording here https://t.co/fW371aFjB5",
+    "createdAt": "2026-11-13T00:24:58.000Z",
+    "url": "https://x.com/thsottiaux/status/2121036562058400200",
     "media": []
   }
 }
