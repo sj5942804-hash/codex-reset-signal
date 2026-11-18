@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T16:09:04.227Z",
+  "updatedAt": "2026-11-18T22:55:42.146Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-18T16:09:04.221Z",
-    "lastSuccessAt": "2026-11-18T16:09:04.221Z",
-    "lastRunStatus": "checked-6-posts"
+    "lastCheckedAt": "2026-11-18T22:55:42.140Z",
+    "lastSuccessAt": "2026-11-18T22:55:42.140Z",
+    "lastRunStatus": "checked-7-posts"
   },
   "latestObservedPost": {
-    "id": "2122954129094111394",
-    "text": "@mattshumer_ I do think you all coordinated on a slack channel 👀",
-    "url": "https://x.com/thsottiaux/status/2122954129094111394",
-    "postCreatedAt": "2026-11-18T07:24:41.000Z"
+    "id": "2123179276199735535",
+    "text": "@DannyIO It does like math",
+    "url": "https://x.com/thsottiaux/status/2123179276199735535",
+    "postCreatedAt": "2026-11-18T22:19:20.000Z"
   },
   "latest": {
     "reset": null,
