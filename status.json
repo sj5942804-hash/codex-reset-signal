@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-18T00:02:29.171Z",
+  "updatedAt": "2026-11-18T06:58:40.934Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-18T00:02:29.164Z",
-    "lastSuccessAt": "2026-11-18T00:02:29.164Z",
-    "lastRunStatus": "checked-5-posts"
+    "lastCheckedAt": "2026-11-18T06:58:40.926Z",
+    "lastSuccessAt": "2026-11-18T06:58:40.926Z",
+    "lastRunStatus": "checked-11-posts"
   },
   "latestObservedPost": {
-    "id": "2122816458711548126",
-    "text": "@notjazii Team never stops. We'll get it right on all levels one day, in the meantime it's a pretty good jump on all fronts and cheaper/faster.",
-    "url": "https://x.com/thsottiaux/status/2122816458711548126",
-    "postCreatedAt": "2026-11-17T22:17:38.000Z"
+    "id": "2122938155225752015",
+    "text": "@iruletheworldmo 👀",
+    "url": "https://x.com/thsottiaux/status/2122938155225752015",
+    "postCreatedAt": "2026-11-18T06:21:13.000Z"
   },
   "latest": {
     "reset": null,
