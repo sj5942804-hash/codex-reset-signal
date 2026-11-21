@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21T04:04:18.352Z",
+  "updatedAt": "2026-11-21T12:27:55.419Z",
   "username": "thsottiaux",
   "keyword": "reset",
   "monitor": {
     "provider": "fxembed",
-    "lastCheckedAt": "2026-11-21T04:04:18.346Z",
-    "lastSuccessAt": "2026-11-21T04:04:18.346Z",
-    "lastRunStatus": "checked-0-posts"
+    "lastCheckedAt": "2026-11-21T12:27:55.406Z",
+    "lastSuccessAt": "2026-11-21T12:27:55.406Z",
+    "lastRunStatus": "checked-2-posts"
   },
   "latestObservedPost": {
-    "id": "2123901067272618336",
-    "text": "@theo @maria_rcks But is it true",
-    "url": "https://x.com/thsottiaux/status/2123901067272618336",
-    "postCreatedAt": "2026-11-20T22:07:29.000Z"
+    "id": "2123998117561532424",
+    "text": "@DylanMcD8 DYLAN, HI! 👋",
+    "url": "https://x.com/thsottiaux/status/2123998117561532424",
+    "postCreatedAt": "2026-11-21T04:33:07.000Z"
   },
   "latest": {
     "reset": null,
